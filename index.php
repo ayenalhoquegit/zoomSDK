@@ -5,7 +5,7 @@
 </head>
 <body>
 	<h3>Zoom live meeting</h3>
-	<a href="zoom.html">Join meeting</a>
+	<a href="zoom.php">Join meeting</a>
 </body>
 </html>
 

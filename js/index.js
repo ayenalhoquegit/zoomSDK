@@ -18,7 +18,7 @@ var meetConfig = {
     meetingNumber: MEETING_NUMBER,
     userName: USER_NAME,
     passWord: PASSWORD,
-    leaveUrl: "http://localhost/ZoomSDK/index.html",
+    leaveUrl: "http://localhost/zoomSDK/index.php",
     role: 0
 };
 
